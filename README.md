@@ -1,13 +1,14 @@
-## Hello! I'm Pedro Lucas
+## Olá! Me chamo Pedo Lucas
 
-## I'm a student of systems analysis and development
-- 🌱 I currently study java and data structure
+## O ue faço atualmente?
+- 🌱 Estudante de analise e desenvolivmento de sistemas
+- 🖥️ Desenvolvedor Web FullStack 
 
-## <img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e47ayh5zv2bmq51o92s4osxbvvl0vnckpm26030jmmx&rid=giphy.gif&ct=s" width="30px" height="30px"> Connect with me
+## <img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e47ayh5zv2bmq51o92s4osxbvvl0vnckpm26030jmmx&rid=giphy.gif&ct=s" width="30px" height="30px"> Conecte-se comigo 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-lucas-lopes-de-oliveira-7a090223a/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo0974/)
 
-## 🛠️ My Skills
+## 🛠️ Minhas Habilidades
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
