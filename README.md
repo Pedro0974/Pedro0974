@@ -1,6 +1,6 @@
 ## Olá! Me chamo Pedo Lucas
 
-## O ue faço atualmente?
+## O que faço atualmente?
 - 🌱 Estudante de analise e desenvolivmento de sistemas
 - 🖥️ Desenvolvedor Web FullStack 
 
