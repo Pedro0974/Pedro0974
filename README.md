@@ -1,17 +1,14 @@
-### Fullstack Web Developer 👨‍💻
-Diving into lines of code to create incredible and functional solutions. Passionate about programming languages and always seeking to learn more.
+### Desenvolvedor Web Fullstack 👨‍💻
+Mergulhando em linhas de código para criar soluções incríveis e funcionais. Apaixonado por linguagens de programação e sempre em busca de aprender mais.
 
-### Partner at Managerglass 💼
-Co-founder at Managerglass, where we work to turn ideas into successful digital projects. Committed to crafting products that make an impact and enhance the online experience.
+### Sócio na Managerglass 💼
+Sócio na Managerglass, onde trabalhamos para transformar ideias em projetos digitais de sucesso. Comprometido em criar produtos que façam a diferença e aprimorem a experiência online.
 
-### Student of Analysis and Systems Development 📚
-Currently in the 4th semester at Faminas Muriaé. Blending theoretical knowledge with hands-on experiences to build a promising future in technology.
+### Estudante de Análise e Desenvolvimento de Sistemas 📚
+Atualmente no 4º semestre na Faminas Muriaé. Combinando conhecimento teórico com experiências práticas para construir um futuro promissor na área de tecnologia.
 
-### 19 Years Dedicated to Technology 🔥
-Fascinated by computers from a young age, I started exploring the digital world and never looked back. At just 19, I'm dedicated to reaching new heights in my career.
-
-### Navigating Frontend and Backend ⚙️
-Equally comfortable crafting amazing interfaces and building the functionality behind them.
+### Navegando no Frontend e Backend ⚙️
+Tanto à vontade criando interfaces incríveis quanto construindo a funcionalidade por trás delas.
 
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,11 +20,11 @@ Equally comfortable crafting amazing interfaces and building the functionality b
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Turning Lines of Code into Innovation 🚀
-My passion for programming goes beyond the job. Committed to transforming lines of code into innovative solutions that solve real-world problems.
+### Transformando Linhas de Código em Inovação 🚀
+Minha paixão pela programação vai além do trabalho. Comprometido em transformar linhas de código em soluções inovadoras que resolvem problemas do mundo real.
 
-### Get in Touch and Let's Collaborate 🤝
-Always open to new opportunities and collaborations. Whether you're interested in innovative projects, technology, or just want to chat, feel free to reach out!
+### Entre em Contato e Vamos Colaborar 🤝
+Sempre aberto a novas oportunidades e colaborações. Se você está interessado em projetos inovadores, tecnologia, ou apenas quer bater um papo, sinta-se à vontade para entrar em contato!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-lucas-lopes-de-oliveira-7a090223a/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo0974/)
