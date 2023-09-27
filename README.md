@@ -1,9 +1,6 @@
 ### Desenvolvedor Web Fullstack 👨‍💻
 Mergulhando em linhas de código para criar soluções incríveis e funcionais. Apaixonado por linguagens de programação e sempre em busca de aprender mais.
 
-### Sócio na Managerglass 💼
-Sócio na Managerglass, onde trabalhamos para transformar ideias em projetos digitais de sucesso. Comprometido em criar produtos que façam a diferença e aprimorem a experiência online.
-
 ### Estudante de Análise e Desenvolvimento de Sistemas 📚
 Atualmente no 4º semestre na Faminas Muriaé. Combinando conhecimento teórico com experiências práticas para construir um futuro promissor na área de tecnologia.
 
