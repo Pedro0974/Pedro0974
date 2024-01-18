@@ -1,30 +1,45 @@
-### Desenvolvedor Web Fullstack 👨‍💻
-Mergulhando em linhas de código para criar soluções incríveis e funcionais. Apaixonado por linguagens de programação e sempre em busca de aprender mais.
+# Pedro Lucas Lopes de Oliveria
 
-### Estudante de Análise e Desenvolvimento de Sistemas 📚
-Atualmente no 4º semestre na Faminas Muriaé. Combinando conhecimento teórico com experiências práticas para construir um futuro promissor na área de tecnologia.
+ Olá! sou um jovem de 20 anos, trabalho com programação na area de Desenvolvimento Web a mais de 1 ano. 
+ Atualemnte exerço um cargo de desenvolvedor FullStack em uma empresa que esta construindo uma aplicação web prorpia para gestao de sua empresa.
+ Estou cursnado o ultimo periodo da faculdade de ADS na FAMINAS MURIAÉ.
 
-### Navegando no Frontend e Backend ⚙️
-Tanto à vontade criando interfaces incríveis quanto construindo a funcionalidade por trás delas.
+## Tecnologias que tenho experiência 
+
+Front-End:
 
 ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled_components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+
+Back-End:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/django_rest_framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+Outros:
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Transformando Linhas de Código em Inovação 🚀
-Minha paixão pela programação vai além do trabalho. Comprometido em transformar linhas de código em soluções inovadoras que resolvem problemas do mundo real.
 
-### Entre em Contato e Vamos Colaborar 🤝
-Sempre aberto a novas oportunidades e colaborações. Se você está interessado em projetos inovadores, tecnologia, ou apenas quer bater um papo, sinta-se à vontade para entrar em contato!
-
+## Redes Sociais
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-lucas-lopes-de-oliveira-7a090223a/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo0974/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroo0974/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/32998162682)
 
 
