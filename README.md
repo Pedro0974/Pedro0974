@@ -1,8 +1,8 @@
 # Pedro Lucas Lopes de Oliveria
 
- Olá! sou um jovem de 20 anos, trabalho com programação na area de Desenvolvimento Web a mais de 1 ano. 
- Atualemnte exerço um cargo de desenvolvedor FullStack em uma empresa que esta construindo uma aplicação web prorpia para gestao de sua empresa.
- Estou cursnado o ultimo periodo da faculdade de ADS na FAMINAS MURIAÉ.
+ Olá! Sou um jovem de 20 anos e trabalho com programação na área de Desenvolvimento Web há mais de 1 ano.
+ Atualmente, exerço o cargo de desenvolvedor FullStack em uma empresa que está construindo uma aplicação web própria para gestão de seus processos.
+ Estou cursando o último período da faculdade de ADS na FAMINAS MURIAÉ.
 
 ## Tecnologias que tenho experiência 
 
